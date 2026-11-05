@@ -23,9 +23,9 @@
 
 Full-Stack Web & HealthTech Developer with comprehensive experience in architecting end-to-end digital platforms—from interactive, responsive user interfaces to complex, high-throughput relational databases. 
 
-I specialize in building mission-critical healthcare ecosystems, including Hospital Information Systems (HIS), Outpatient Clinic Portals, Surgical Operation Loggers, Laboratory Information Systems (LIS), Electronic Medical Records (EMR), and automated, secure medical reporting engines.
+I specialize in building critical healthcare systems, including Hospital Information Systems (HIS), Outpatient Clinic Portals, Surgical Operation Loggers, Laboratory Information Systems (LIS), Electronic Medical Records (EMR), and automated, secure medical reporting engines.
 
-Alongside enterprise health software, I bring deep expertise to the WordPress ecosystem, crafting custom themes from scratch (PSD to WordPress), engineering bespoke WordPress plugins, and building tailored WooCommerce e-commerce solutions.
+Alongside enterprise health software, I have significant expertise in WordPress ecosystem, crafting custom themes from scratch (PSD to WordPress), engineering bespoke WordPress plugins, and building tailored WooCommerce e-commerce solutions.
 - 🏥 **HealthTech & Enterprise Systems:** Design and implementation of secure EMR, clinic workflow management, surgical theater tracking, and laboratory test workflows.
 - 📄 **Automated Clinical Reporting:** Dynamic medical document generation, audit trail implementation, and print/security access controls.
 - 🗄️ **Full-Stack Development:** End-to-end web architecture with robust backend logic, optimized database routines, and asynchronous UI data binding.
