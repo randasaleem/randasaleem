@@ -21,12 +21,16 @@
 
 ### 👨‍💻 About Me
 
-I specialize in building complex, database-heavy clinical management software (HIS/EMR), custom medical reporting engines, and robust web applications. My development focus bridges server-side architecture, strict healthcare document compliance, and responsive user interfaces.
+Full-Stack Web & HealthTech Developer with comprehensive experience in architecting end-to-end digital platforms—from interactive, responsive user interfaces to complex, high-throughput relational databases. 
 
-- 🏥 **HealthTech Engineering:** Architecture of inpatient surgical logging, diagnostic tracking (radiology/lab), and clinic analytics.
-- 📄 **Automated Document Engines:** High-security dynamic PDF generation (TCPDF) with anti-tamper controls, print restrictions, and audit watermarks.
-- 🗄️ **Database Optimization:** Enterprise schema design, complex business logic via stored procedures, and scalable query tuning.
-- 🔌 **WordPress & Plugins:** Custom WordPress plugins, WooCommerce add-ons, and secure remote licensing APIs.
+I specialize in building mission-critical healthcare ecosystems, including Hospital Information Systems (HIS), Outpatient Clinic Portals, Surgical Operation Loggers, Laboratory Information Systems (LIS), Electronic Medical Records (EMR), and automated, secure medical reporting engines.
+
+Alongside enterprise health software, I bring deep expertise to the WordPress ecosystem, crafting custom themes from scratch (PSD to WordPress), engineering bespoke WordPress plugins, and building tailored WooCommerce e-commerce solutions.
+- 🏥 **HealthTech & Enterprise Systems:** Design and implementation of secure EMR, clinic workflow management, surgical theater tracking, and laboratory test workflows.
+- 📄 **Automated Clinical Reporting:** Dynamic medical document generation, audit trail implementation, and print/security access controls.
+- 🗄️ **Full-Stack Development:** End-to-end web architecture with robust backend logic, optimized database routines, and asynchronous UI data binding.
+- 🔌 **WordPress Engineering:** Custom theme development (converting UI/UX designs to clean WP standards), bespoke plugin development, REST API integrations, and WooCommerce extensions.
+
 
 ---
 
