@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Hi there, I'm <span style="color: #0366d6;">[randa saleem]</span> 👋</h1>
+  <h1>Hi there, I'm <span style="color: #0366d6;">randa saleem</span> 👋</h1>
   <p><strong>Senior Backend & HealthTech Web Developer</strong></p>
   <p>Building secure, data-driven hospital systems, automated clinical workflows, and high-performance web applications.</p>
 
   <!-- Badges Row -->
   <p>
-    <a href="https://linkedin.com/in/[randa-saleem-211b4250]" target="_blank">
+    <a href="https://linkedin.com/in/randa-saleem-211b4250" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:[wranda.it"gmail.com]">
+    <a href="mailto:wranda.it@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://wa.me/[00972599470824]" target="_blank">
+    <a href="https://wa.me/00972599470824" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
