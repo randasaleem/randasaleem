@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm <span style="color: #0366d6;">randa saleem</span> 👋</h1>
-  <p><strong>Senior Backend & HealthTech Web Developer</strong></p>
+  <p><strong>Backend & HealthTech Web Developer</strong></p>
   <p>Building secure, data-driven hospital systems, automated clinical workflows, and high-performance web applications.</p>
 
   <!-- Badges Row -->
